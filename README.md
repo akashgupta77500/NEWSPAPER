@@ -1,4 +1,4 @@
-# NEWSPAPER
+# NEWSPAPER (FOLLOW this link to deploy your angular app on HEROKU): https://www.javaguides.net/2020/11/how-to-deploy-angular-application-to-heroku.html
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
